@@ -8,4 +8,5 @@ Se trata de un proceso JAVA que recibirá por input dos variables:
 Una vez validado el fichero JSON, se realizará una llamada a una API externa con una serie de prámetros mapeados con elfichero input. Esta llamada puede ser OK y que nos devuelva un anuncio en formato HTML, OK pero que no pueda devolvernos anuncio o KO por algún error en la llamada.
 
 Para ejecutar el proceso bastará con ejecutar el siguiente comando:
-java -jar {RUTA DONDE SE ENCUENTRA EL JAR}\technicaltest-1.0-jar-with-dependencies.jar {RUTA AL FICHERO INPUT} {TIMEOUT}
+
+*java -jar {RUTA DONDE SE ENCUENTRA EL JAR}\technicaltest-1.0-jar-with-dependencies.jar {RUTA AL FICHERO INPUT} {TIMEOUT}*
